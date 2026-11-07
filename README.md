@@ -6,7 +6,7 @@ the backends and interfaces that make them useful to a business.
 Final-year BS Computer Science at Iqra University, concentrating in AI/ML and Data Science.
 Open to AI engineering and AI automation roles, remote or in Karachi.
 
-[Portfolio](https://saad-asad-portfolio.netlify.app) | [Email](mailto:saadasadpeero@gmail.com)
+[Portfolio](https://muhammadsaadasad20.github.io) | [Email](mailto:saadasadpeero@gmail.com)
 
 ## Projects
 
